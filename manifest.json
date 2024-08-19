@@ -1,0 +1,12 @@
+{
+    "name": "Login Status Checker",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Check login status on x.com",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_icon": "icons/1.png",
+      "default_popup": "check.html"
+    }
+  }
+  
